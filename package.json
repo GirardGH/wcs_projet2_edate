@@ -26,13 +26,5 @@
     "react-speech-recognition": "^3.10.0",
     "regenerator-runtime": "^0.13.10",
     "swiper": "^8.4.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WildCodeSchool/2022-09-JS-TLSE-P2-e-date.git"
-  },
-  "bugs": {
-    "url": "https://github.com/WildCodeSchool/2022-09-JS-TLSE-P2-e-date/issues"
-  },
-  "homepage": "https://github.com/WildCodeSchool/2022-09-JS-TLSE-P2-e-date#readme"
+  }
 }
